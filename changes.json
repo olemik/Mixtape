@@ -1,0 +1,72 @@
+{
+	"changes" : [
+		{	
+			"action" : "add_playlist",
+			"user" : "Oleg",
+			"songs" : [
+				{
+					"artist": "AC/DC",
+					"title": "Thunderstruck"
+				}
+			]
+		},
+		{	
+			"action" : "remove_playlist",
+			"playlist_id": "1"
+		},
+		{	
+			"action" : "add_song",
+			"playlist_id": "2",
+			"artist": "Metallica",
+			"title": "Nothing Else Matters"
+		},
+		{	
+			"action" : "some_action",
+			"playlist_id": "1"
+		},
+		{	
+			"action" : "add_song",
+			"playlist_id": "2",
+			"artist": "Metallica",
+			"title": "Enter Sandman"
+		},
+		{	
+			"action" : "add_song",
+			"playlist_id": "2",
+			"artist": "Camila Cabello",
+   		    "title": "Havana"
+		},
+		{	
+			"action" : "add_song",
+			"playlist_id": "3",
+			"artist": "Camila Cabello",
+   		    "title": "New Song"
+		},
+		{	
+			"action" : "add_playlist",
+			"user" : "Oleg",
+			"songs" : [
+				{
+				  "artist": "Charlie Puth",
+			      "title": "Done For Me"
+				},
+				{
+				  "artist": "Foster The People",
+				  "title": "Sit Next to Me"
+				},
+				{
+				  "artist": "Max",
+				  "title": "Lights Down Low"
+				},
+				{
+				  "artist": "Alice Merton",
+				  "title": "No Roots"
+				},
+				{
+				  "artist": "5 Seconds Of Summer",
+				  "title": "Want You Back"
+				}
+			]
+		}
+	]
+}
